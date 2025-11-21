@@ -3,7 +3,9 @@
 
 
 ## 배경
-![Google Merch Shop](https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/imgs/google_merch_shop.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/imgs/google_merch_shop.jpg?raw=true" width="350">
+</p>
 
 Google Merch Shop은 구글에서 운영하는 공식 온라인 기념품(굿즈) 판매 채널로, 옷, 가방, 액세서리, 학용품을 비롯하여 다양한 상품을 취급하는 곳이다. 하지만, 최근 들어 구글 굿즈 샵의 연간 매출 성장세가 둔화되며 마케팅 부서에서는 매출 확대와 안정을 위한 데이터 기반 전략이 필요하다는 판단을 내렸다. 이에 따라 2019년 1월 1일부터 2019년 12월 31일까지 쌓인 온라인 구글 굿즈 샵의 거래, 고객, 할인 데이터를 수집하여, 올해 서비스의 성장을 위한 신규 마케팅 전략 수립과 마케팅 성과 향상을 위한 고객군 세분화 작업을 진행하고자 했다.
 
