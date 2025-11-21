@@ -26,6 +26,9 @@ Google Merch Shop은 구글에서 운영하는 공식 온라인 기념품(굿즈
 - 고객과 관련된 정보: Customer_info.csv
 - 할인과 관련된 정보: Discount_info.csv
 
+## 활용 툴
+- Python, Tableau, Google Docs
+
 ## 분석 결과
 
 ### 굿즈샵 거래 데이터 종합 분석
