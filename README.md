@@ -31,14 +31,14 @@ Google Merch Shop은 구글에서 운영하는 공식 온라인 기념품(굿즈
 
 **1. 매출 트렌드**
 
-![매출 트렌드](https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/sales_data_1.png?raw=true)
+![매출 트렌드](https://github.com/Venusgalaxy1022/user-segmentation-analysis/imgs/sales_data_1.png?raw=true)
 
 월별 매출액과 주문건수는 연중 변동성을 보이나, 연말로 갈수록 상승세를 나타낸다. 이는 고객의 구매 빈도가 연말에 집중된 결과로 해석할 수 있다. 
 
 
 **2. 상품 및 카테고리 성과**
 
-![상품 및 카테고리 성과](https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/monthly_orders_by_category.png?raw=true)
+![상품 및 카테고리 성과](https://github.com/Venusgalaxy1022/user-segmentation-analysis/imgs/monthly_orders_by_category.png?raw=true)
 
 Nest 제품군(Nest-USA, Nest, Nest-Canada)의 주문건수와 매출액이 압도적으로 많은 비중을 차지한다. 해당 제품군의 총 주문수가 14K에 달하고, 전체 주문의 56%를 차지한다. 해당 카테고리는 단가 또한 평균 124~194달러로 높은 수준이기 때문에, 합산 매출 역시 전체 매출의 67% 이상을 기여한다. 온라인 샵의 매출 구조가 특정 고가 상품군에 극도로 편중된 형태다.  
 
