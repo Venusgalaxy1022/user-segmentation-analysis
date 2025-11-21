@@ -1,6 +1,5 @@
 # user-segmentation-analysis
-
-
+[Google Merch Shop 분석 보고서](https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/analysis_report.pdf) 
 
 ## 배경
 <p align="center">
