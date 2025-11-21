@@ -52,7 +52,9 @@ Nest 제품군(Nest-USA, Nest, Nest-Canada)의 주문건수와 매출액이 압�
 
 **4. 할인 및 프로모션 효과**
 
-![할인 및 프로모션 효과](https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/imgs/discount_relations.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/imgs/discount_relations.png?raw=true" width="350">
+</p>
 
 할인율이 커질수록 매출과 거래수가 선형적으로 증가하는 것이 아니다. 단순히 할인 폭을 확대한 프로모션은 객단가 하락 및 수익성 저하로 이어질 수 있으며, 고객의 구매 의사 결정에서 할인율이 주요한 요인이 아님을 시사한다.
 
