@@ -1,5 +1,5 @@
 # user-segmentation-analysis
-아래 내용은 공간 제약상 분석 보고서의 일부를 추린 것이므로, 전체적인 내용은 [Google Merch Shop 분석 보고서](https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/analysis_report.pdf)에서 확인 가능함.
+아래 내용은 공간 제약상 분석 보고서의 일부를 추린 것이므로, 전체적인 내용은 [Google Merch Shop 분석 보고서](https://github.com/Venusgalaxy1022/user-segmentation-analysis/blob/main/analysis_report.pdf)에서 확인 가능하다.
 
 ## 배경
 <p align="center">
